@@ -1,0 +1,64 @@
+[
+    {
+      "Código": "T01",
+      "Titulo": "Análisis de requerimientos",
+      "Descripción": "Análisis de requerimientos de la última reunión",
+      "Terminado":"V"
+    },
+    {
+      "Código": "T02",
+      "Titulo": "Diseño de la interfaz",
+      "Descripción": "Diseño de la interfaz de usuario para la nueva aplicación",
+      "Terminado":"F"
+      
+    },
+    {
+      "Código": "T03",
+      "Titulo": "Desarrollo del backend",
+      "Descripción": "Desarrollo de la lógica del servidor",
+      "Terminado":"F"
+    },
+    {
+      "Código": "T04",
+      "Titulo": "Pruebas de rendimiento",
+      "Descripción": "Realización de pruebas de rendimiento para la aplicación",
+      "Terminado":"F"
+    },
+    {
+      "Código": "T05",
+      "Titulo": "Documentación del proyecto",
+      "Descripción": "Creación de documentación detallada del proyecto",
+      "Terminado":"F"
+    },
+    {
+      "Código": "T06",
+      "Titulo": "Revisión de código",
+      "Descripción": "Revisión de código para garantizar la calidad del software",
+      "Terminado":"F"
+    },
+    {
+      "Código": "T07",
+      "Titulo": "Implementación de seguridad",
+      "Descripción": "Añadir capas de seguridad a la aplicación",
+      "Terminado":"F"
+    },
+    {
+      "Código": "T08",
+      "Titulo": "Optimización de base de datos",
+      "Descripción": "Mejorar el rendimiento de la base de datos",
+      "Terminado":"F"
+    },
+    {
+      "Código": "T09",
+      "Titulo": "Entrenamiento del equipo",
+      "Descripción": "Entrenar al equipo en las nuevas tecnologías",
+      "Terminado":"F"
+    },
+    {
+      "Código": "T10",
+      "Titulo": "Lanzamiento de la aplicación",
+      "Descripción": "Preparar el lanzamiento de la aplicación al mercado",
+      "Terminado":"F"
+    }
+  ]
+  
